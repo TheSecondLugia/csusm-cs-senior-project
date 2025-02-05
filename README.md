@@ -9,3 +9,5 @@ This repository serves as an online resource for CSUSM freshmen who are planning
 * **Capstone information** - A detailed overview of Capstone projects in general.
 * **Project Portfolio** - A list of all the Capstone projects that CSUSM has done since 2014. Users can filter what they want to see using the sidebar.
 * **Sponsor Form** - New sponsors who wish to contribute to the students' learning can apply to be a sponsor at the university. They are reviewed by the faculty of the university and will follow up with the sponsor if they are interested.
+
+**Disclaimer: This is an unofficial resource, created by students and alumni. While we strive for accuracy, always refer to the official university website for official policies, course catalogs, and academic requirements.**
